@@ -1,7 +1,6 @@
 ---
 layout: default
 title: My Projects
-description: A showcase of my projects.
 ---
 
 ## Project 1: Data Visualization
