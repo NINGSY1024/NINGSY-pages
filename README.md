@@ -1,3 +1,3 @@
 # GitHub Pages
 
-This repository is used to display various projects I have worked on through a web-based interface
+This repository is utilized to present various academic projects I have worked on.
