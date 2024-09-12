@@ -15,23 +15,10 @@ Final Project for PC5251 Applied Machine Learning.
 
 ## [Grad_Project 2](https://ningsy1024.github.io/NINGSY-pages/Projects/Deep%20Learning%20the%20Phase%20Transition.html) Deep Learning the Phase Transition: A CNN Approach to the 2D Ising Model
  
-Research project in PC5212 Numerical Recipes, National University of Singapore
+Research project in PC5212 Numerical Recipes
 
 -	Used the Monte Carlo method to obtain representative sets of spin configurations for a bunch of temperatures.
--	Trained a convolutional neural network in PyTorch to classify configurations and predict the critical temperature.
+-	Trained convolutional neural network via PyTorch to classify configurations and predict the critical temperature.
 
-An exploration of machine learning models for predictive analysis.
-
-- **Technologies Used**: Python, scikit-learn
-- [View Project](https://yourgithubpage.com/project2)
-
-## Project 3: Website Redesign
-
-A complete redesign of a fictional company's website.
-
-- **Technologies Used**: HTML, CSS, Bootstrap
-- ![Website Redesign](/path/to/image.png)  # 确保图片上传到你的仓库中，并正确链接
-
-Thank you for visiting my project showcase! If you have questions or comments, feel free to [contact me](mailto:your-email@example.com).
 
 
