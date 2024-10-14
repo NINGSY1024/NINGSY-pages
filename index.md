@@ -20,5 +20,7 @@ Research project in PC5212 Numerical Recipes
 -	Used the Monte Carlo method to obtain representative sets of spin configurations for a bunch of temperatures.
 -	Trained convolutional neural network via PyTorch to classify configurations and predict the critical temperature.
 
+## [Undergrad_Project 1](https://ningsy1024.github.io/NINGSY-pages/Projects/numerical-simulation-of-quantum-size-effects-html.html) Numerical Simulation of Quantum Size Effects in Nanomaterials
+
 
 
