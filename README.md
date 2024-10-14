@@ -1,3 +1,3 @@
 # GitHub Pages
 
-This repository is utilized to present various academic projects I have worked on.
+This repository is utilized to present several academic projects I have worked on.
